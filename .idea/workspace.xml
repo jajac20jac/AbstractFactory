@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df6b84ed-f192-4664-b01e-8ebe9474a54c" name="Changes" comment="" />
+    <list default="true" id="df6b84ed-f192-4664-b01e-8ebe9474a54c" name="Changes" comment="created">
+      <change afterPath="$PROJECT_DIR$/src/Android/AndroidAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Android/AndroidOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Android/AndroidSuperAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factories/AndroidFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factories/IOSFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IOS/IOSAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IOS/IOSOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IOS/IOSSuperAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Interfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JJwN7seG84pvwWBWQBHN43hFpJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,7 +53,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671809453059</updated>
+      <workItem from="1671809454806" duration="666000" />
     </task>
+    <task id="LOCAL-00001" summary="created">
+      <created>1671809481175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671809481175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created" />
+    <option name="LAST_COMMIT_MESSAGE" value="created" />
   </component>
 </project>
